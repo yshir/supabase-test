@@ -11,6 +11,9 @@ export const Header: React.FC = () => {
       <Link href="/" style={{ marginRight: 6 }}>
         Home
       </Link>
+      <Link href="/files" style={{ marginRight: 6 }}>
+        Files
+      </Link>
       <Link href="/signup" style={{ marginRight: 6 }}>
         SignUp
       </Link>
